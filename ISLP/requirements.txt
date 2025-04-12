@@ -5,3 +5,5 @@ ISLP
 scipy
 ipykernel
 openpyxl
+torch==2.0.0
+sklearn

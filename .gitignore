@@ -1,3 +1,4 @@
 *.ipynb_checkpoints*
 venv/
 myenv/
+d2l.ai/data/FashionMNIST/*
